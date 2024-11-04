@@ -1,0 +1,3 @@
+{"id": 111111111111, "date": "2024-11-04T17:26:38+00:00", "user_id": 123456789, "action_type": "ChannelAdminLogEventActionDeleteMessage", "action": {"message_id": 1, "message_date": "2024-11-04T17:17:15+00:00", "message_text": "abc", "from_id": 987654321}}
+{"id": 222222222222, "date": "2024-11-04T17:26:38+00:00", "user_id": 123456789, "action_type": "ChannelAdminLogEventActionDeleteMessage", "action": {"message_id": 2, "message_date": "2024-11-04T17:20:19+00:00", "message_text": "def", "from_id": 987654321}}
+{"id": 333333333333, "date": "2024-11-04T17:26:38+00:00", "user_id": 123456789, "action_type": "ChannelAdminLogEventActionDeleteMessage", "action": {"message_id": 3, "message_date": "2024-11-04T17:21:55+00:00", "message_text": "ghi", "from_id": 987654321}}
